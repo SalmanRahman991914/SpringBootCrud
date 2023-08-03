@@ -33,5 +33,4 @@ public class StudentServiceImpl implements StudentService{
 		studentDao.save(student);
 		return student;
 	}
-
 }
